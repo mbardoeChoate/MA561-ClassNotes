@@ -7,16 +7,16 @@ Notes:
 What do these graphs have in common, what is unique about each one?
 
 ![Chart, line chart Description automatically
-generated](./img/media/image1.png){width="2.8047331583552055in"
+generated](../img/media/image1.png){width="2.8047331583552055in"
 height="2.8047331583552055in"} ![Chart, line chart Description
 automatically
-generated](./img/media/image2.png){width="2.804734251968504in"
+generated](../img/media/image2.png){width="2.804734251968504in"
 height="2.804734251968504in"}
 
 ![Chart, line chart Description automatically
-generated](./img/media/image3.png){width="2.7927066929133857in"
+generated](../img/media/image3.png){width="2.7927066929133857in"
 height="2.7927066929133857in"} ![Chart Description automatically
-generated](./img/media/image4.png){width="2.810650699912511in"
+generated](../img/media/image4.png){width="2.810650699912511in"
 height="2.810650699912511in"}
 
 Let's make a definition:
@@ -43,7 +43,7 @@ Draw a graph on the grid below of a function with domain (-5,5\], a jump
 discontinuity at x=-2, and a removable discontinuity at x=3.
 
 ![Chart Description automatically
-generated](./img/media/image5.png){width="3.5325437445319334in"
+generated](../img/media/image5.png){width="3.5325437445319334in"
 height="3.5325437445319334in"}
 
 **\
@@ -84,7 +84,7 @@ discontinuity identify where it is, and describe it as removable,
 infinite, or jump.
 
 ![Chart Description automatically
-generated](./img/media/image5.png){width="3.5319444444444446in"
+generated](../img/media/image5.png){width="3.5319444444444446in"
 height="3.5319444444444446in"}
 
 1.  $f(x) = \left\{ \begin{matrix}
@@ -92,7 +92,7 @@ height="3.5319444444444446in"}
     x^{2} & x \geq 0 \\
     \end{matrix} \right.\ $
 
-![](./img/media/image5.png){width="3.5319444444444446in"
+![](../img/media/image5.png){width="3.5319444444444446in"
 height="3.5319444444444446in"}
 
 2.  $f(x) = \left\{ \begin{matrix}
@@ -100,12 +100,12 @@ height="3.5319444444444446in"}
      - 3 & x = 2 \\
     \end{matrix} \right.\ $
 
-![](./img/media/image5.png){width="3.5319444444444446in"
+![](../img/media/image5.png){width="3.5319444444444446in"
 height="3.5319444444444446in"}
 
 3.  $f(x) = \frac{1}{x - 3}$
 
-![](./img/media/image5.png){width="3.5319444444444446in"
+![](../img/media/image5.png){width="3.5319444444444446in"
 height="3.5319444444444446in"}
 
 4.  $f(x) = (x - 3)(x + 1)(x + 4)$
@@ -115,7 +115,7 @@ height="3.5319444444444446in"}
     x^{3} & x \geq 0 \\
     \end{matrix} \right.\ $
 
-![](./img/media/image5.png){width="3.5319444444444446in"
+![](../img/media/image5.png){width="3.5319444444444446in"
 height="3.5319444444444446in"}
 
 6.  What value of $a$ makes the function $g(x) = \left\{ \begin{matrix}
