@@ -15,13 +15,13 @@ C.  $\lim_{h \rightarrow 0}\frac{{(2 + h)}^{2} - 4}{h}$
 
 In each of the graphs below write the units for slope:
 
-![](./img/media/Chap2Sec6image1.png){width="2.928993875765529in"
+![](../img/media/Chap2Sec6image1.png){width="2.928993875765529in"
 height="2.9960695538057744in"}
 
-![](./img/media/Chap2Sec6image2.png){width="2.4166666666666665in"
+![](../img/media/Chap2Sec6image2.png){width="2.4166666666666665in"
 height="2.6798611111111112in"}
 
-![](./img/media/Chap2Sec6image3.png){width="2.180439632545932in"
+![](../img/media/Chap2Sec6image3.png){width="2.180439632545932in"
 height="2.4626148293963253in"}
 
 ### Instantaneous Rates of Change
@@ -49,15 +49,15 @@ from the sensor. Use the graph below to describe the motion of the
 individual in words. Be sure to include descriptions of the velocity of
 the individual.
 
-![](./img/media/Chap2Sec6image4.png){width="2.0121555118110237in"
+![](../img/media/Chap2Sec6image4.png){width="2.0121555118110237in"
 height="2.2434372265966753in"}
 
 Draw a graph of the velocity function
 
-![](./img/media/Chap2Sec6image5.png){width="2.3609470691163605in"
+![](../img/media/Chap2Sec6image5.png){width="2.3609470691163605in"
 height="2.3609470691163605in"}
 
-![](./img/media/Chap2Sec6image6.png){width="5.375in"
+![](../img/media/Chap2Sec6image6.png){width="5.375in"
 height="4.472222222222222in"}
 
 a\.
@@ -68,7 +68,7 @@ c\.
 
 d\.
 
-![](./img/media/Chap2Sec6image7.png){width="6.5in" height="4.809722222222222in"}
+![](../img/media/Chap2Sec6image7.png){width="6.5in" height="4.809722222222222in"}
 
 a\.
 

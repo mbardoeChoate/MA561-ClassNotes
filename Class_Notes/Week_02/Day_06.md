@@ -57,7 +57,7 @@
 
 7. Use the graph of $f(x$) to answer the questions below it.
 
-![Piecewise Graph](img/media/Picture1.png)
+![Piecewise Graph](../img/media/Picture1.png)
 
   
 
